@@ -3,4 +3,8 @@ First Git workshop
 
 ## two
 
-## three
+### three
+
+Now we are making changes. Good times....
+
+
